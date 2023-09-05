@@ -1,0 +1,69 @@
+[
+    {
+        "placa": "raphael",
+        "marca": "bmw",
+        "modelo": "I8",
+        "ano": 2019
+    },
+    {
+        "placa": "duda",
+        "marca": "mclaren",
+        "modelo": "Senna",
+        "ano": 2023
+    },
+    {
+        "placa": "gabriel",
+        "marca": "lamborghini",
+        "modelo": "7-elements",
+        "ano": 2014
+    },
+    {
+        "placa": "hugo",
+        "marca": "ferrari",
+        "modelo": "spider",
+        "ano": 2017
+    },
+
+    {
+        "placa": "Heloisa",
+        "marca": "bmw",
+        "modelo": "X5",
+        "ano": 2019
+    },
+
+    {
+        "placa": "Wagner",
+        "marca": "ferrari",
+        "modelo": "Enzo",
+        "ano": 2013
+    },
+
+    {
+        "placa": "Luciano",
+        "marca": "bmw",
+        "modelo": "IX",
+        "ano": 2023
+    },
+
+    {
+        "placa": "Jackson",
+        "marca": "lamborghini",
+        "modelo": "Aventador",
+        "ano": 2017
+    },
+
+    {
+        "placa": "Bruno",
+        "marca": "mclaren",
+        "modelo": "P1",
+        "ano": 2015
+    },
+
+    {
+        "placa": "Paulo",
+        "marca": "lamborghini",
+        "modelo": "Urus",
+        "ano": 2018
+    }
+]
+
